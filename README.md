@@ -1,5 +1,5 @@
 **<<<TASK>>>**: Creating and Developing a Single Page Web Application (Login Page) \
-**Abstract:** This document describes how to create and develop a single-page web application with the required tools and technologies. The application includes creating and developing a home page and a login page.
+**Abstract:** This document describes how to create and develop a single-page web application with the required tools and technologies. The application includes creating and developing a home page and a login page. \
 **Functional Requirements:**
 --> The application must display a home page with the following sections such as About, services, contact details, log in.
  ![image](https://github.com/cherukurisai451/SPA_PROJECT/assets/115765268/55c1ab8b-4d5d-4597-a2cb-29ceb67b9db8)
