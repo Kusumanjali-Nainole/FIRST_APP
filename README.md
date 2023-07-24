@@ -1,6 +1,6 @@
-**TASK**: Creating and Developing a Single Page Web Application \
+**TASK**: Creating and Developing a Single Page Web Application.
 
-**Abstract:** This document describes how to create and develop a single-page web application with the required tools and technologies. The application includes creating and developing a home page and a login page. \
+**Abstract:** This document describes how to create and develop a single-page web application with the required tools and technologies. The application includes creating and developing a home page and a login page.
 
 **Functional Requirements:**
 --> The application must display a home page with sections such as About, services, contact details and log in.
